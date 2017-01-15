@@ -1,0 +1,34 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\bin\Debug\TicketLibrary.dll
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\bin\Debug\TicketLibrary.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\obj\Debug\TicketLibrary.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\obj\Debug\TicketLibrary.TicketUserControl.resources
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\obj\Debug\TicketLibrary.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\obj\Debug\TicketLibrary.dll
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\TicketLibrary\obj\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.TicketUserControl.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.TicketUserControl.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.TicketUserControl.resources
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csproj.GenerateResource.Cache
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\bin\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.TicketUserControl.resources
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.csproj.GenerateResource.Cache
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\TicketLibrary\obj\Debug\TicketLibrary.pdb

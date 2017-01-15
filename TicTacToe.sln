@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{BF3581E1-6B2B-4E16-903F-794FA93E7632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketLibrary", "TicketLibrary\TicketLibrary.csproj", "{F9A7B923-0439-40BD-83EF-72363DD0ED04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{0D3E2AB1-45E8-46CB-94E1-F3E1BE5CFE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3581E1-6B2B-4E16-903F-794FA93E7632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3581E1-6B2B-4E16-903F-794FA93E7632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3581E1-6B2B-4E16-903F-794FA93E7632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3581E1-6B2B-4E16-903F-794FA93E7632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A7B923-0439-40BD-83EF-72363DD0ED04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A7B923-0439-40BD-83EF-72363DD0ED04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A7B923-0439-40BD-83EF-72363DD0ED04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A7B923-0439-40BD-83EF-72363DD0ED04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3E2AB1-45E8-46CB-94E1-F3E1BE5CFE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3E2AB1-45E8-46CB-94E1-F3E1BE5CFE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3E2AB1-45E8-46CB-94E1-F3E1BE5CFE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3E2AB1-45E8-46CB-94E1-F3E1BE5CFE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

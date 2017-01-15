@@ -1,0 +1,67 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\bin\Debug\Server.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.Form1.resources
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\bin\Debug\Server.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\bin\Debug\Server.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\bin\Debug\TicketLibrary.dll
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\bin\Debug\TicketLibrary.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\DS_Sec06_Remoting\Server\obj\Debug\Server.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\bin\Debug\Server.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.exe
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\bin\Debug\Server.exe
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\bin\Debug\Server.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\bin\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\bin\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.Form1.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec06_CinemaRemoting\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.exe
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.dll
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.pdb
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Form1.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2013\Projects\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.exe
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Form1.resources
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Moham\Courses\College\Distributed System\Section\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Moham\Desktop\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Desktop\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.exe
+C:\Users\Moham\Desktop\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.exe
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.exe
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.dll
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\bin\Debug\TicketLibrary.pdb
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Form1.resources
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Moham\Courses\College\Temp\irsjgdjgfdsggfsghfdsghjshjfghdsghjdsf\DS_Sec07_CinemaRemoting\DS_Sec07_CinemaRemoting\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Moham\Desktop\TicTacToe\TicTacToe\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Desktop\TicTacToe\TicTacToe\Server\obj\Debug\Server.exe
+C:\Users\Moham\Desktop\TicTacToe\TicTacToe\Server\obj\Debug\Server.pdb
+C:\Users\Moham\Courses\College\Distributed System\Section\TicTacToe\TicTacToe\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Courses\College\Distributed System\Section\TicTacToe\TicTacToe\Server\obj\Debug\Server.exe
+C:\Users\Moham\Courses\College\Distributed System\Section\TicTacToe\TicTacToe\Server\obj\Debug\Server.pdb
+C:\Users\Moham\Desktop\TicTacToe\Server\bin\Debug\Server.exe.config
+C:\Users\Moham\Desktop\TicTacToe\Server\obj\Debug\Server.exe
+C:\Users\Moham\Desktop\TicTacToe\Server\obj\Debug\Server.pdb
